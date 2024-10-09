@@ -1,0 +1,6 @@
+com\devsuperior\tsmeta\repositories\SaleRepository.class
+com\devsuperior\tsmeta\services\SaleService.class
+com\devsuperior\tsmeta\controllers\SaleController.class
+com\devsuperior\tsmeta\TsmetaApplication.class
+com\devsuperior\tsmeta\entities\Sale.class
+com\devsuperior\tsmeta\config\SecurityConfig.class
